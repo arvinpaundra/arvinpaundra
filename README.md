@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arvinpaundra
-- 👀 I’m interested in Back-End Web Developer
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me at arvinpaundra06@gmail.com
 
 <!---
